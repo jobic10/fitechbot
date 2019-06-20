@@ -1,0 +1,10 @@
+<?php
+if(isset($_SESSION['welcome']))
+{
+ $_SESSION['welcome']=$_SESSION['welcome']+1;
+}
+else
+{
+$_SESSION['welcome']=1;
+}
+?>
