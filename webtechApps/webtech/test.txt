@@ -1,0 +1,61 @@
+DataInput aDI = new DataInputStream(new FileInputStream(“source”));
+DataOutput aDO = new DataOutputStream(new FileOutputStream(“dest”));
+String line;
+397
+19
+Sams.net
+Learning
+Center
+abcd
+while ((line = aDI.readLine()) != null) {
+StringBuffer modifiedLine = new StringBuffer(line);
+. . . // process modifiedLine in place
+aDO.writeBytes(modifiedLine.toString());
+}
+aDI.close();
+aDO.close();
+If you want to process it byte-by-byte, use this:
+try {
+while (true) {
+byte b = (byte) aDI.readByte();
+. . . // process b in place
+aDO.writeByte(b);
+}
+} finally {
+aDI.close();
+aDO.close();
+}
+Here’s a cute two-liner that just copies the file:
+try { while (true) aDO.writeByte(aDI.readByte()); }
+finally { aDI.close(); aDO.close(); }
+
+
+
+Following is the example to demonstrate InputStream and OutputStream: import java.io.*; public class fileStreamTest{ public static void main(String args[]){ try{ byte bWrite []={11,21,3,40,5}; OutputStream os = new FileOutputStream("C:/test.txt"); for(int x=0; x < bWrite.length ; x++){ os.write( bWrite[x]);// writes the bytes } os.close(); InputStream is = new FileInputStream("C:/test.txt"); int size = is.available(); for(int i=0; i< size; i++){ System.out.print((char)is.read()+" "); } is.close(); }catch(IOException e){ System.out.print("Exception"); } } }
+
+Following is the example to demonstrate ByteArrayInputStream and ByteArrayOutputStream import java.io.*; public class ByteStreamTest{ public static void main(String args[])throws IOException{ ByteArrayOutputStream bOutput = new ByteArrayOutputStream(12); while(bOutput.size()!=10){ // Gets the inputs from the user bOutput.write(System.in.read()); } byte b []= bOutput.toByteArray();System.out.println("Print the content"); for(int x=0; x < b.length; x++){ // printing the characters System.out.print((char)b[x]+" "); } System.out.println(" "); int c; ByteArrayInputStream bInput = new ByteArrayInputStream(b); System.out.println("Converting characters to Upper case "); for(int y =0; y <1; y++){ while(( c= bInput.read())!=-1){ System.out.println(Character.toUpperCase((char)c)); } bInput.reset(); } } }
+
+
+Following is the example to demonstrate DataInputStream and DataInputStream. This example reads 5 lines given in a file test.txt and convert those lines into capital letters and finally copies them into another file test1.txt. import java.io.*; public class Test{ public static void main(String args[])throwsIOException{ DataInputStream d = new DataInputStream(new FileInputStream("test.txt")); DataOutputStreamout= new DataOutputStream(new FileOutputStream("test1.txt")); String count; while((count = d.readLine())!=null){ String u = count.toUpperCase(); System.out.println(u); out.writeBytes(u +" ,"); } d.close(); out.close(); } }
+
+Following is the example to demonstrate ByteArrayOutputStream and ByteArrayOutputStream import java.io.*; public class ByteStreamTest{ public static void main(String args[])throws IOException{ ByteArrayOutputStream bOutput = new ByteArrayOutputStream(12); while( bOutput.size()!=10){ // Gets the inputs from the user bOutput.write(System.in.read()); } byte b []= bOutput.toByteArray(); System.out.println("Print the content"); for(int x=0; x < b.length; x++){ //printing the characters System.out.print((char)b[x]+" "); } System.out.println(" "); int c; ByteArrayOutputStream bInput = new ByteArrayOutputStream(b); System.out.println("Converting characters to Upper case "); for(int y =0; y <1; y++){ while(( c= bInput.read())!=-1){ System.out.println(Character.toUpperCase((char)c)); } bInput.reset(); } } }
+
+Following is the example to demonstrate DataInputStream and DataInputStream. This example reads 5 lines given in a file test.txt and converts those lines into capital letters and finally copies them into another file test1.txt. import java.io.*; public class Test{ public static void main(String args[])throws IOException{ DataInputStream d = new DataInputStream(new FileInputStream("test.txt")); DataOutputStream out = new DataOutputStream(new FileOutputStream("test1.txt")); String count; while((count = d.readLine())!=null){ String u = count.toUpperCase(); System.out.println(u); out.writeBytes(u +" ,"); } d.close(); out.close();
+
+
+try {
+InputStream in = theURL.openStream();
+DataInputStream data = new DataInputStream(
+new BufferedInputStream(in);
+String line;
+while ((line = data.readLine()) != null) {
+System.out.println(“line”);
+}
+}
+catch (IOException e) {
+System.out.println(“IO Error: “ + e.getMessage());
+}
+
+
+
+page265
