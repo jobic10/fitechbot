@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/fitechbot/Classes/GroupLoggedInInterface.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/Classes/HtmlGen.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/searchprocessor_group.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/add_user_to_group.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/web/create_group_processor.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/FitechFiles/sqls/chatTbs.sql</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/web/logged_in_users.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/upload_photo_to_group_processor.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/Classes/ChatLoggedInInterface.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/finish_img_upload_group.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/move_tuf_group.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/upload_photo_to_group.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/Classes/SqlBasics.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/web/index.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/web/js/add_user.js</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/refresh_post_group.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/groups/check_user_access.php</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/js/chat_js_lib.js</file>
+            <file>file:/D:/xampp/htdocs/fitechbot/chat/web/js/status.js</file>
+        </group>
+    </open-files>
+</project-private>
