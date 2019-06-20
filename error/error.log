@@ -1,0 +1,142 @@
+[26-Oct-2018 10:23:19 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_aej9tq3rpa7ve0k3tr2u15lou1, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\fitechbot\Classes\sessionBasics.php on line 31
+[26-Oct-2018 10:23:19 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_aej9tq3rpa7ve0k3tr2u15lou1, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\fitechbot\Classes\sessionBasics.php on line 31
+[26-Oct-2018 10:23:19 Europe/Berlin] PHP Warning:  Unknown: open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_aej9tq3rpa7ve0k3tr2u15lou1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[26-Oct-2018 10:23:19 Europe/Berlin] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir) in Unknown on line 0
+[26-Oct-2018 10:23:19 Europe/Berlin] PHP Warning:  Unknown: open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_aej9tq3rpa7ve0k3tr2u15lou1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[26-Oct-2018 10:23:19 Europe/Berlin] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir) in Unknown on line 0
+[26-Oct-2018 10:23:20 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_aej9tq3rpa7ve0k3tr2u15lou1, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\fitechbot\Classes\sessionBasics.php on line 31
+[26-Oct-2018 10:23:20 Europe/Berlin] PHP Warning:  Unknown: open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_aej9tq3rpa7ve0k3tr2u15lou1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[26-Oct-2018 10:23:20 Europe/Berlin] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir) in Unknown on line 0
+[27-Oct-2018 10:54:35 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\fitechbot\Classes\SqlBasics.php on line 63
+[27-Oct-2018 10:54:40 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\fitechbot\Classes\SqlBasics.php on line 63
+[27-Oct-2018 10:54:46 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\fitechbot\Classes\SqlBasics.php on line 63
+[27-Oct-2018 09:57:20 Africa/Lagos] PHP Notice:  Undefined variable: privacy in C:\xampp\htdocs\fitechbot\chat\web\ctrls_con.php on line 44
+[27-Oct-2018 09:57:20 Africa/Lagos] PHP Notice:  Undefined variable: privacy in C:\xampp\htdocs\fitechbot\chat\web\ctrls_con.php on line 47
+[27-Oct-2018 09:57:20 Africa/Lagos] PHP Notice:  Undefined variable: privacy in C:\xampp\htdocs\fitechbot\chat\web\ctrls_con.php on line 50
+[27-Oct-2018 12:56:58 Africa/Lagos] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\fitechbot\Classes\SqlBasics.php on line 63
+[27-Oct-2018 14:52:49 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_shj1s38jk2uo2l78j2306sr8u1, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\fitechbot\Classes\sessionBasics.php on line 31
+[27-Oct-2018 14:52:49 Europe/Berlin] PHP Warning:  Unknown: open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_shj1s38jk2uo2l78j2306sr8u1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[27-Oct-2018 14:52:49 Europe/Berlin] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir) in Unknown on line 0
+[28-Oct-2018 00:09:15 Africa/Lagos] PHP Notice:  Undefined variable: photo_name in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 59
+[28-Oct-2018 00:10:52 Africa/Lagos] PHP Notice:  Undefined variable: photo_name in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 59
+[28-Oct-2018 00:14:11 Africa/Lagos] PHP Notice:  Undefined variable: photo_name in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 59
+[28-Oct-2018 00:15:25 Africa/Lagos] PHP Notice:  Undefined variable: photo_name in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 59
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[28-Oct-2018 00:34:20 Africa/Lagos] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in C:\xampp\htdocs\fitechbot\chat\NoteBook\check_user.php on line 70
+[31-Oct-2018 00:02:41 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[31-Oct-2018 00:02:41 Europe/Berlin] PHP Notice:  Undefined index: h9jfbh8edgk27rps33pack2bb6 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[31-Oct-2018 00:02:57 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[31-Oct-2018 00:02:57 Europe/Berlin] PHP Notice:  Undefined index: 387ipdfaco5vfm4a4dis8a3od5 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[01-Nov-2018 15:38:56 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[01-Nov-2018 15:38:56 Europe/Berlin] PHP Notice:  Undefined index: u8d1q1lmgj7ac6adecvsqvubd0 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[01-Nov-2018 21:49:04 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\check_user.php on line 17
+[01-Nov-2018 22:38:32 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\check_user.php on line 17
+[02-Nov-2018 01:08:59 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_6cqfelqj9nqq0r8avvleqa8sv2, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\fitechbot\Classes\sessionBasics.php on line 31
+[02-Nov-2018 01:08:59 Europe/Berlin] PHP Warning:  Unknown: open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_6cqfelqj9nqq0r8avvleqa8sv2, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[02-Nov-2018 01:08:59 Europe/Berlin] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir) in Unknown on line 0
+[02-Nov-2018 07:23:26 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 07:23:26 Europe/Berlin] PHP Notice:  Undefined index: c2j4bpo29nrf0p2b58uipv42n7 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 08:39:02 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 08:39:02 Europe/Berlin] PHP Notice:  Undefined index: 6d2dm7onfjoar4fjh4gu9ce150 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 08:40:40 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 08:40:40 Europe/Berlin] PHP Notice:  Undefined index: 9r8812jcmc7hblmnjuaivlcfo7 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 11:40:24 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 11:40:24 Europe/Berlin] PHP Notice:  Undefined index: g0ima4gc9q9imlsr8tukq5gm92 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 11:47:46 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 11:47:46 Europe/Berlin] PHP Notice:  Undefined index: n4ruco68q01e9kbsfvjbl23p21 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 11:59:05 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 11:59:05 Europe/Berlin] PHP Notice:  Undefined index: scuoehp815ogs3oo59ifh5gj03 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:01:37 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:01:37 Europe/Berlin] PHP Notice:  Undefined index: bkkmk2gj45osbvoegmc9hpo5b6 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:02:23 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:02:23 Europe/Berlin] PHP Notice:  Undefined index: 5dnofui7ooq9vsjivscamcii70 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:03:25 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:03:25 Europe/Berlin] PHP Notice:  Undefined index: robt63hj7f7gel92gla9nfr050 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:13:14 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:13:15 Europe/Berlin] PHP Notice:  Undefined index: a60i3n03enq3sksfkelukcdui5 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:14:31 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:14:31 Europe/Berlin] PHP Notice:  Undefined index: t350lujpl7u6bjgnqpb4bke9j7 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:15:18 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:15:18 Europe/Berlin] PHP Notice:  Undefined index: 7v663i9n7g2jtcqf7l5rd4pl72 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:22:57 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:22:57 Europe/Berlin] PHP Notice:  Undefined index: 0p8oij2jjf4neggev9sdrlb0g4 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:23:18 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:23:18 Europe/Berlin] PHP Notice:  Undefined index: 332ejnu6q152halr66us7r7ii0 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:23:40 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:23:40 Europe/Berlin] PHP Notice:  Undefined index: kagaqknma8r28papq4gvebh4j3 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:25:05 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:25:05 Europe/Berlin] PHP Notice:  Undefined index: skukjp6ljsaikgbqocs3enoqo2 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 12:26:13 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 12:26:13 Europe/Berlin] PHP Notice:  Undefined index: 0uv4k2ucrpm8ngvt84tcgf6km6 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:16:22 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:16:22 Europe/Berlin] PHP Notice:  Undefined index: ud0vhbaglcdagesn0oevq9dki2 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:19:41 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:19:41 Europe/Berlin] PHP Notice:  Undefined index: bvms6600gpu6q9hs5tpo7782j2 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:20:23 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:20:23 Europe/Berlin] PHP Notice:  Undefined index: pne2h7htsrn14vja49eq5pknl6 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:20:52 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:20:52 Europe/Berlin] PHP Notice:  Undefined index: l1v7jdpclcfg29fqisteoe91u7 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:33:07 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:33:07 Europe/Berlin] PHP Notice:  Undefined index: 06st5akoo0vl01epkru6pl9bs0 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:33:50 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:33:50 Europe/Berlin] PHP Notice:  Undefined index: a158b888l5503bb87balccpie0 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:34:13 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:34:13 Europe/Berlin] PHP Notice:  Undefined index: 13bua3a2518fmkb9l490prc5f0 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:37:00 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:37:00 Europe/Berlin] PHP Notice:  Undefined index: 8knrlj99f5iumk1qv4tskqrvs1 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:45:54 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:45:54 Europe/Berlin] PHP Notice:  Undefined index: jfc0e0oa4u2qelu1cusnfpkqm0 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:46:50 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:46:50 Europe/Berlin] PHP Notice:  Undefined index: p7hpl3rj212i8cguk5huckts03 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:48:00 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:48:00 Europe/Berlin] PHP Notice:  Undefined index: tcc6gcuu4shah26ljv3qc5fve3 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:50:13 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:50:13 Europe/Berlin] PHP Notice:  Undefined index: ncrgan8bi0fsqjahf60i3ofib6 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:51:51 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:51:51 Europe/Berlin] PHP Notice:  Undefined index: hl945vt22k654qj2l78uu78bv7 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 14:52:22 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 14:52:22 Europe/Berlin] PHP Notice:  Undefined index: tb8ahg62sddqgl34r0b8o68246 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 15:15:07 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 15:15:07 Europe/Berlin] PHP Notice:  Undefined index: ra1dqmru2kanh9rsh35ugnmna2 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 15:15:59 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 15:15:59 Europe/Berlin] PHP Notice:  Undefined index: pv416vqecev3cqbrbjsq62njr3 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 15:17:41 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 15:17:41 Europe/Berlin] PHP Notice:  Undefined index: kca0bkhv07cbugvuscppqinsc1 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 15:29:59 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 15:29:59 Europe/Berlin] PHP Notice:  Undefined index: dmeskt2rn0dr6fbkmsiog8fh50 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 16:27:56 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 16:27:56 Europe/Berlin] PHP Notice:  Undefined index: s0fmcakipd9o6cridm4d5uh096 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 16:32:24 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 16:32:24 Europe/Berlin] PHP Notice:  Undefined index: ap2qc4gvs429433qbnh4ds0560 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[02-Nov-2018 16:33:32 Africa/Lagos] PHP Notice:  Undefined variable: deviceType in C:\xampp\htdocs\fitechbot\chat\web\logged_remember.php on line 14
+[02-Nov-2018 16:33:32 Europe/Berlin] PHP Notice:  Undefined index: skmufaj689uo566lr458bdq9h2 in C:\xampp\htdocs\fitechbot\chat\web\logout.php on line 5
+[06-Nov-2018 09:47:14 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_drcohdp83fba8l664asnq6sqq4, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\fitechbot\Classes\sessionBasics.php on line 31
+[06-Nov-2018 09:47:14 Europe/Berlin] PHP Warning:  Unknown: open(C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir\sess_drcohdp83fba8l664asnq6sqq4, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[06-Nov-2018 09:47:14 Europe/Berlin] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir) in Unknown on line 0
+[29-Nov-2018 16:59:36 Europe/Berlin] PHP Warning:  require_once(../secreet/confidential/db_connection.php): failed to open stream: No such file or directory in C:\xampp\htdocs\fitechbot\chat\web\my_profile.php on line 58
+[29-Nov-2018 16:59:36 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../secreet/confidential/db_connection.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fitechbot\chat\web\my_profile.php on line 58
+[29-Nov-2018 17:00:29 Europe/Berlin] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\xampp\htdocs\fitechbot\sms\confirmpin_staff.php on line 12
+[09-Mar-2019 19:49:47 Africa/Lagos] PHP Fatal error:  Call to undefined function db_connection() in C:\xampp\htdocs\fitechbot\chat\web\inboxMessages.php on line 2
+[09-Mar-2019 19:50:10 Europe/Berlin] PHP Warning:  require_once(../secreet/confidential/db_connection.php): failed to open stream: No such file or directory in C:\xampp\htdocs\fitechbot\chat\web\my_profile.php on line 58
+[09-Mar-2019 19:50:10 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../secreet/confidential/db_connection.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fitechbot\chat\web\my_profile.php on line 58
+[09-Mar-2019 19:50:15 Africa/Lagos] PHP Fatal error:  Call to undefined function db_connection() in C:\xampp\htdocs\fitechbot\chat\web\inboxMessages.php on line 2
+[09-Mar-2019 19:52:03 Africa/Lagos] PHP Fatal error:  Call to undefined function fitech_timing() in C:\xampp\htdocs\fitechbot\chat\web\online_users_list.php on line 31
+[25-Mar-2019 12:29:23 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\fitechbot\sms\adminpages\allstd.php on line 36
+[25-Mar-2019 12:29:23 Europe/Berlin] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\fitechbot\sms\adminpages\allstd.php on line 73
+[25-Mar-2019 12:29:23 Europe/Berlin] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\xampp\htdocs\fitechbot\sms\adminpages\allstd.php on line 102
+[25-Mar-2019 12:29:23 Europe/Berlin] PHP Warning:  Unknown: open(G:\go_fitech_online_session_dir\sess_0j52t15t4q54smio62aqdkqdi1, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[25-Mar-2019 12:29:23 Europe/Berlin] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (C:\xampp\htdocs\fitechbot\go_fitech_online_session_dir) in Unknown on line 0
+[25-Mar-2019 12:35:38 Africa/Lagos] PHP Fatal error:  Call to undefined function fitech_timing() in C:\xampp\htdocs\fitechbot\chat\web\online_users_list.php on line 31
+[25-Mar-2019 12:35:50 Africa/Lagos] PHP Fatal error:  Call to undefined function fitech_timing() in C:\xampp\htdocs\fitechbot\chat\web\online_users_list.php on line 31
