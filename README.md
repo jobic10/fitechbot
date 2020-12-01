@@ -1,2 +1,3 @@
 # fitechbot
-Fitech Bot. HeyWhy;
+Code not maintained/updated.
+Use at your own risk!
